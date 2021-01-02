@@ -1,5 +1,12 @@
 [
   {
+    "categories": ["Mathematics"],
+    "authors": [],
+    "title": "Circles and Pi",
+    "link": "https://mathigon.org/course/circles/",
+    "description": ""
+  },
+  {
     "categories": ["Computer Science", "Quantum Mechanics"],
     "authors": ["Andy Matuschak", "Michael Nielsen"],
     "title": "Quantum computing for the very curious",

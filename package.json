@@ -1,6 +1,6 @@
 {
   "name": "engineers-ingredients",
-  "description": "Knowledge representations for future engineers",
+  "description": "Dynamic knowledge representations for engineers",
   "private": true,
   "version": "1.0.0",
   "scripts": {
@@ -8,7 +8,7 @@
     "build": "npm run index && next build",
     "start": "next start",
     "index": "node index-dataset.js",
-    "deploy": "vercel"
+    "deploy": "vercel --prod"
   },
   "dependencies": {
     "classnames": "2.2.6",

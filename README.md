@@ -1,6 +1,6 @@
 # The Engineer's Ingredients
 
-Knowledge representations for future engineers.
+Dynamic knowledge representations for engineers.
 
 ## Help the engineers of the future!
 
@@ -23,7 +23,7 @@ This project gathers specifically crafted digital content focused on engineering
 
 ## How to contribute
 
-Pull requests that extend our dataset with links to dynamic, digital content focused on engineering knowledge are most welcome!
+Pull requests that extend our dataset (`/lib/dataset.json`) with links to dynamic, digital content focused on engineering knowledge are most welcome!
 
 If you like this project, please consider helping out. All contributions are welcome as well as donations in crypto:
 

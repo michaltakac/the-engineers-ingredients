@@ -1,0 +1,79 @@
+[
+  {
+    "categories": ["Computer Science", "Quantum Mechanics"],
+    "authors": ["Andy Matuschak", "Michael Nielsen"],
+    "title": "Quantum computing for the very curious",
+    "link": "https://quantum.country/qcvc",
+    "description": ""
+  },
+  {
+    "categories": ["Computer Science", "Quantum Mechanics"],
+    "authors": ["Andy Matuschak", "Michael Nielsen"],
+    "title": "How quantum teleportation works",
+    "link": "https://quantum.country/teleportation",
+    "description": ""
+  },
+  {
+    "categories": ["Computer Science", "Quantum Mechanics"],
+    "authors": ["Andy Matuschak", "Michael Nielsen"],
+    "title": "Quantum mechanics distilled",
+    "link": "https://quantum.country/qm",
+    "description": ""
+  },
+  {
+    "categories": ["Computer Science", "Quantum Mechanics"],
+    "authors": ["Andy Matuschak", "Michael Nielsen"],
+    "title": "How the quantum search algorithm works",
+    "link": "https://quantum.country/search",
+    "description": ""
+  },
+  {
+    "categories": ["Computer Science"],
+    "authors": ["Marc ten Bosch"],
+    "title": "Let's remove Quaternions from every 3D Engine",
+    "link": "https://marctenbosch.com/quaternions/",
+    "description": "An Interactive Introduction to Rotors from Geometric Algebra"
+  },
+  {
+    "categories": ["Computer Science", "Games"],
+    "authors": [""],
+    "title": "Trigonometry for Games",
+    "link": "https://demoman.net/?a=trig-for-games",
+    "description": "Trigonometry is a notorious topic because it's often mandatory in public school...but the grand majority of public school students have no use for it. A game programmer has plenty of uses for trig, though, which makes it much more compelling and approachable - let's learn the basics!"
+  },
+  {
+    "categories": ["Computer Science"],
+    "authors": ["Shaun Lebron"],
+    "title": "Visualizing Projections",
+    "link": "https://shaunlebron.github.io/visualizing-projections/",
+    "description": ""
+  },
+  {
+    "categories": ["Computer Science", "Neural Networks"],
+    "authors": [""],
+    "title": "A Neural Network Playground",
+    "link": "http://playground.tensorflow.org/",
+    "description": "Tinker With a Neural Network Right Here in Your Browser. Don’t Worry, You Can’t Break It. We Promise."
+  },
+  {
+    "categories": ["Computer Science", "Neural Networks"],
+    "authors": ["Stephanie Yee", "Tony Chu"],
+    "title": "A visual introduction to machine learning",
+    "link": "http://www.r2d3.us/visual-intro-to-machine-learning-part-1/",
+    "description": "In machine learning, computers apply statistical learning techniques to automatically identify patterns in data. These techniques can be used to make highly accurate predictions."
+  },
+  {
+    "categories": ["Computer Science"],
+    "authors": ["Omar Shehata"],
+    "title": "A Geometric Intuition for Linear Discriminant Analysis",
+    "link": "https://omarshehata.github.io/lda-explorable/",
+    "description": "Linear Discriminant Analysis, or LDA, is a useful technique in machine learning for classification and dimensionality reduction. It's often used as a preprocessing step since a lot of algorithms perform better on a smaller number of dimensions."
+  },
+  {
+    "categories": ["Computer Science"],
+    "authors": ["Patricio Gonzalez Vivo", "Jen Lowe"],
+    "title": "The Book of Shaders",
+    "link": "https://thebookofshaders.com/",
+    "description": ""
+  }
+]

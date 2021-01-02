@@ -1,0 +1,29 @@
+{
+  "name": "engineers-ingredients",
+  "description": "Knowledge representations for future engineers",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next",
+    "build": "npm run index && next build",
+    "start": "next start",
+    "index": "node index-dataset.js"
+  },
+  "dependencies": {
+    "classnames": "2.2.6",
+    "date-fns": "2.16.1",
+    "fuse.js": "^6.4.5",
+    "isomorphic-unfetch": "^3.1.0",
+    "next": "latest",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "10.0.4",
+    "postcss": "8.1.10",
+    "postcss-preset-env": "^6.7.0",
+    "string-strip-html": "^7.0.3",
+    "tailwindcss": "2.0.1"
+  },
+  "license": "MIT"
+}

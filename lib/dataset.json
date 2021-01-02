@@ -1,5 +1,40 @@
 [
   {
+    "categories": ["Computer Science", "Mathematics", "Cryptography"],
+    "title": "Elliptic Curve Cryptography: a gentle introduction",
+    "authors": ["Andrea Corbellini"],
+    "description": "A gentle introduction to the world of elliptic curve cryptography."
+    "link": "https://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/"
+  },
+  {
+    "categories": ["Mathematics", "Quantum Mechanics"],
+    "title": "The Essence of Quantization",
+    "authors": ["Paul Masson"],
+    "description": "This presentation will demonstrate graphically what quantization means in general for spherically symmetric potentials in an arbitrary number of spatial dimensions greater than one."
+    "link": "https://analyticphysics.com/Quantum%20Mechanics/The%20Essence%20of%20Quantization.htm"
+  },
+  {
+    "categories": ["Mathematics", "Dynamic Systems"],
+    "title": "Interactive Lotka-Volterra Equation",
+    "authors": ["Paul Masson"],
+    "description": "Lotka-Volterra equations, or predator-prey equations, are a pair of first-order nonlinear differential equations describing the interaction between a food source and its consumers."
+    "link": "https://analyticphysics.com/Differential%20Equations/Interactive%20Lotka-Volterra%20Equations.htm"
+  },
+  {
+    "categories": ["Computer Science", "Information Theory", "Mathematics", "Physics"],
+    "title": "Waveforms",
+    "authors": ["Josh Comeau"],
+    "description": "This interactive guide introduces and explores waveforms. We'll cover how to read these funny shapes, go over the fundamental physics of sound, learn how it relates to music and harmony, and discover how to build complex tones from simple ones."
+    "link": "https://pudding.cool/2018/02/waveforms/"
+  },
+  {
+    "categories": ["Computer Science", "Mathematics", "Statistics"],
+    "title": "Seeing Theory",
+    "authors": ["Daniel Kunin", "Jingtu Guo", "Tyler Dae Devlin", "Daniel Xiang"],
+    "description": "A visual introduction to probability and statistics"
+    "link": "https://seeing-theory.brown.edu/"
+  },
+  {
     "categories": ["Mathematics"],
     "authors": [],
     "title": "Circles and Pi",

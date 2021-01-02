@@ -7,7 +7,8 @@
     "dev": "next",
     "build": "npm run index && next build",
     "start": "next start",
-    "index": "node index-dataset.js"
+    "index": "node index-dataset.js",
+    "deploy": "vercel"
   },
   "dependencies": {
     "classnames": "2.2.6",

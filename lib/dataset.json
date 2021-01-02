@@ -1,5 +1,33 @@
 [
   {
+    "categories": ["Computer Science", "Mathematics", "Physics", "Information Theory"],
+    "title": "An Interactive Introduction to Fourier Transforms",
+    "authors": ["Jez Swanson"],
+    "description": "Fourier transforms are a tool used in a whole bunch of different things. This is an explanation of what a Fourier transform does, and some different ways it can be useful.",
+    "link": "http://www.jezzamon.com/fourier/index.html"
+  },
+  {
+    "categories": ["Computer Science", "Mathematics", "Statistics", "Neural Networks"],
+    "title": "Ordinary Least Squares Regression",
+    "authors": ["Victor Powell", "Lewis Lehe"],
+    "description": "Statistical regression is basically a way to predict unknown quantities from a batch of existing data.",
+    "link": "https://setosa.io/ev/ordinary-least-squares-regression/"
+  },
+  {
+    "categories": ["Computer Science", "Mathematics", "Information Theory"],
+    "title": "Seeing Circles, Sines and Signals",
+    "authors": ["Jack Schaedler"],
+    "description": "A compact primer on digital signal processing.",
+    "link": "https://jackschaedler.github.io/circles-sines-signals/"
+  },
+  {
+    "categories": ["Computer Science", "Mathematics", "3D"],
+    "title": "Visualizing Quaternions",
+    "authors": ["Grant Sanderson", "Ben Eater"],
+    "description": "An explorable video series.",
+    "link": "https://eater.net/quaternions"
+  },
+  {
     "categories": ["Computer Science", "Mathematics", "Cryptography"],
     "title": "Elliptic Curve Cryptography: a gentle introduction",
     "authors": ["Andrea Corbellini"],
